@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="web_apps:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_apps_jar</output-path>
+    <root id="archive" name="web_apps.jar">
+      <element id="module-output" name="web_apps" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/StrukturDasar/lib/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/StrukturDasar/out/artifacts/StrukturDasar_jar/StrukturDasar.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
